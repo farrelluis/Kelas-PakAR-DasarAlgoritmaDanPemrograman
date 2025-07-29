@@ -102,19 +102,29 @@
    mathematica
 
    [Start Program]
+   
     ↓
+   
    [Tampilkan Menu Utama]
+   
     ↓
+   
    [Pilih Opsi Menu]
+   
     ↓
+   
    ├─> Tambah Barang → Input Data → Simpan
+   
    ├─> Tampilkan Inventori → Cetak Tabel
+   
    ├─> Update Stok → Input Kode + Jumlah → Update
+   
    ├─> Hapus Barang → Input Kode → Hapus
+   
    └─> Keluar → Program Selesai
 
 
-6. Kemungkinan Pengembangan Lanjutan
+7. Kemungkinan Pengembangan Lanjutan
    
    Ekspor/Impor data ke/dari file CSV
 
@@ -127,7 +137,7 @@
    Koneksi ke database SQLite/MySQL
 
 
-7. Kode Modular (Penulisan Fungsi)
+8. Kode Modular (Penulisan Fungsi)
    
    Semua fungsi ditulis modular untuk memudahkan:
 
